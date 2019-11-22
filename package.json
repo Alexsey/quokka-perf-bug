@@ -1,0 +1,7 @@
+{
+  "name": "quokka-perf-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "mssql": "^6.0.1"
+  }
+}

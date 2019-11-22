@@ -1,0 +1,2 @@
+process.nextTick(() => {})
+module.exports = {}
